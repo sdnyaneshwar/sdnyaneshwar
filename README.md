@@ -1,15 +1,13 @@
-<!-- Animated Header -->
 <h1 align="center">Hi, I'm Dnyaneshwar Suwarnkar 👋</h1>
 <h3 align="center">Full Stack Developer | Electronics & Telecommunication Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;MERN+Stack+%7C+AWS+%7C+IoT+Enthusiast;Building+Real-World+Innovations;Turning+Ideas+into+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Passionate+Full+Stack+Developer;MERN+Stack+%7C+AWS+%7C+IoT+Enthusiast;Turning+Ideas+into+Impactful+Solutions" alt="Typing Animation" />
 </p>
 
 ---
 
 <h2 align="center">🚀 Tech Stack</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React.js-blue?logo=react" />
   <img src="https://img.shields.io/badge/Frontend-Next.js-black?logo=next.js" />
@@ -38,15 +36,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dnyaneshwar-suwarnkar&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sdnyaneshwar&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dnyaneshwar-suwarnkar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sdnyaneshwar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnyaneshwar-suwarnkar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdnyaneshwar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
